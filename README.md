@@ -1,2 +1,2 @@
 # gh-action-test
-Projecto to test GH actions
+Project to test GH actions
