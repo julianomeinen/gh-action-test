@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Test runnig
-        run: Testing runnig
+        run: echo Testing runnig
 
       - name: Return Status
         run: true
